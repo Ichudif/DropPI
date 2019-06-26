@@ -1,0 +1,13 @@
+C:\Users\Andreas\source\repos\DropPI\DropPI\bin\Debug\DropPI.exe.config
+C:\Users\Andreas\source\repos\DropPI\DropPI\bin\Debug\DropPI.exe
+C:\Users\Andreas\source\repos\DropPI\DropPI\bin\Debug\DropPI.pdb
+C:\Users\Andreas\source\repos\DropPI\DropPI\obj\Debug\DropPI.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\DropPI\DropPI\obj\Debug\DropPI.Form1.resources
+C:\Users\Andreas\source\repos\DropPI\DropPI\obj\Debug\DropPI.Properties.Resources.resources
+C:\Users\Andreas\source\repos\DropPI\DropPI\obj\Debug\DropPI.csproj.GenerateResource.cache
+C:\Users\Andreas\source\repos\DropPI\DropPI\obj\Debug\DropPI.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\DropPI\DropPI\obj\Debug\DropPI.exe
+C:\Users\Andreas\source\repos\DropPI\DropPI\obj\Debug\DropPI.pdb
+C:\Users\Andreas\source\repos\DropPI\DropPI\bin\Debug\UtilityLibrary.dll
+C:\Users\Andreas\source\repos\DropPI\DropPI\bin\Debug\UtilityLibrary.pdb
+C:\Users\Andreas\source\repos\DropPI\DropPI\obj\Debug\DropPI.csproj.CopyComplete
